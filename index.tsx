@@ -5,17 +5,12 @@ import './style.css';
 import { VocabName } from './vocabularies';
 import TalkingHead from './TalkingHead';
 
-interface AppProps { }
-interface AppState {
-  name: string;
-}
+interface AppProps {}
+interface AppState {}
 
 class App extends Component<AppProps, AppState> {
   constructor(props) {
     super(props);
-    this.state = {
-      name: 'React'
-    };
   }
 
   render() {
