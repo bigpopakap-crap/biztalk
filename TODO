@@ -1,0 +1,5 @@
+[ ] Add exclamations
+[ ] Add tags to words (ex. {2:noun:insult})
+[ ] Add tags to templates (ex. "tagline", "paragraph", "insult", etc.)
+[ ] Split this up into server and client
+[ ] Put these dictionaries into a database
